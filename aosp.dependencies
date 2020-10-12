@@ -5,8 +5,8 @@
     "branch": "ten"
   },
   {
-   "repository": "hornbillos/vendor_xiaomi_potter",
-   "target_path": "vendor/xiaomi/potter",
+   "repository": "hornbillos/vendor_motorola_potter",
+   "target_path": "vendor/motorola/potter",
    "branch": "ten",
    "remote":"gitlab"
  },
