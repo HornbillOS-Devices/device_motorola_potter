@@ -5,11 +5,11 @@
     "branch": "ten"
   },
   {
-    "remote": "pixel-devices-blobs",
-    "repository": "vendor_motorola_potter",
-    "target_path": "vendor/motorola/potter",
-    "branch": "ten"
-  },
+   "repository": "hornbillos/vendor_xiaomi_potter",
+   "target_path": "vendor/xiaomi/potter",
+   "branch": "ten",
+   "remote":"gitlab"
+ },
   { 
     "remote": "lineage",
     "repository": "android_system_qcom",
